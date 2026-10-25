@@ -256,7 +256,7 @@ Key methodological papers implemented or referenced in this study:
 ## Contact
 
 **Wirapong Chansanam**  
-Department of Computer Science, Khon Kaen University  
+Department of Information Science, Khon Kaen University  
 Email: wirach@kku.ac.th  
 GitHub: [@wirapong](https://github.com/wirapong)
 
